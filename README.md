@@ -1,5 +1,5 @@
 # The effect of secondhand smoke exposure on self-satisfaction and perceived freedom of life choice
-**This is a data repository related to this paper published in Journal of American College Health**
+**This is a data repository related to this paper: Bin Wan, Danni Peng-Li, Juan Chen, Peilin Xu, Dong Sun, Qi Chen, Jinyue Li, Mengxin Wang, Shuyu Zheng, Liwei Fan, Xusen Wu, Junqiu Hu, Jiajie Chen & Zengjian Wang (2022), Journal of American College Health, DOI: 10.1080/07448481.2022.2039157**
 
 **Abstract:** 
 
